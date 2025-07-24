@@ -120,7 +120,7 @@ Navigate to [http://localhost:3000](http://localhost:3000)
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 cinecare-ai/
 ├── app/                          # Next.js App Router pages
 │   ├── globals.css              # Global styles
@@ -160,7 +160,7 @@ cinecare-ai/
 ├── next.config.js               # Next.js configuration
 ├── package.json                 # Dependencies and scripts
 └── README.md                    # This file
-\`\`\`
+```
 
 ## 🎨 Available Scripts
 
